@@ -12,12 +12,12 @@ body{
 	margin: 0;
 }
 
-.space{
+.🚀{
 	height: 100%;
 	background-color: #090912;
 }
 
-.solar-system{
+.🌞🌍{
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -26,7 +26,7 @@ body{
 	height: 80vw;
 }
 
-.sun{
+.🌞{
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -37,11 +37,11 @@ body{
 	line-height: 1;
 }
 
-.sun::before{
+.🌞::before{
 	content: "🌞";
 }
 
-.earth{
+.🌍{
 	width: 100%;
 	height: 10vw;
 	position: absolute;
@@ -59,7 +59,7 @@ body{
 	animation-fill-mode: none;
 }
 
-.earth::before{
+.🌍::before{
 	content : "🌍";
 	width: 1em;
 	height: 1em;
