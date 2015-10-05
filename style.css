@@ -77,13 +77,13 @@ body{
 	animation-direction: normal;
 	animation-fill-mode: none;
 	box-sizing:  border-box;
-	transform: rotateZ(0deg);
+	transform: rotateZ(23.4deg);
 }
 
 @keyframes earth-rotation {
 	0% {
 		content : "🌍";
-		transform: rotateZ(0deg);
+		transform: rotateZ(23.4deg);
 	}
 	33% { content : "🌍"; }
 	34% { content : "🌎"; }
@@ -91,7 +91,7 @@ body{
 	67% { content : "🌏"; }
 	100% {
 		content : "🌏";
-		transform: rotateZ(-360deg);
+		transform: rotateZ(-336.6deg);
 	}
 }
 
